@@ -1,0 +1,9 @@
+/Users/tecs/Documents/Codding/task1/build/CMakeFiles/main.dir
+/Users/tecs/Documents/Codding/task1/build/CMakeFiles/edit_cache.dir
+/Users/tecs/Documents/Codding/task1/build/CMakeFiles/rebuild_cache.dir
+/Users/tecs/Documents/Codding/task1/build/background/CMakeFiles/BACKGROUND_LIB.dir
+/Users/tecs/Documents/Codding/task1/build/background/CMakeFiles/edit_cache.dir
+/Users/tecs/Documents/Codding/task1/build/background/CMakeFiles/rebuild_cache.dir
+/Users/tecs/Documents/Codding/task1/build/pipes/CMakeFiles/PIPES_LIB.dir
+/Users/tecs/Documents/Codding/task1/build/pipes/CMakeFiles/edit_cache.dir
+/Users/tecs/Documents/Codding/task1/build/pipes/CMakeFiles/rebuild_cache.dir
