@@ -1,0 +1,5 @@
+/Users/tecs/Documents/Codding/Kursovaya_Prog/build/CMakeFiles/functions.dir
+/Users/tecs/Documents/Codding/Kursovaya_Prog/build/CMakeFiles/frequency_analysis.dir
+/Users/tecs/Documents/Codding/Kursovaya_Prog/build/CMakeFiles/test_functions.dir
+/Users/tecs/Documents/Codding/Kursovaya_Prog/build/CMakeFiles/edit_cache.dir
+/Users/tecs/Documents/Codding/Kursovaya_Prog/build/CMakeFiles/rebuild_cache.dir

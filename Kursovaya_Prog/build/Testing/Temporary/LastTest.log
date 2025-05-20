@@ -1,0 +1,31 @@
+Start testing: May 19 22:29 +07
+----------------------------------------------------------
+1/1 Testing: FunctionsTest
+1/1 Test: FunctionsTest
+Command: "/Users/tecs/Documents/Codding/Kursovaya_Prog/build/test_functions"
+Directory: /Users/tecs/Documents/Codding/Kursovaya_Prog/build
+"FunctionsTest" start time: May 19 22:29 +07
+Output:
+----------------------------------------------------------
+[==========] tests: Running 5 test(s).
+[ RUN      ] test_create_word_node
+[       OK ] test_create_word_node
+[ RUN      ] test_add_word
+[       OK ] test_add_word
+[ RUN      ] test_sort_words
+[       OK ] test_sort_words
+[ RUN      ] test_count_chars_and_words
+[       OK ] test_count_chars_and_words
+[ RUN      ] test_process_text_file
+[       OK ] test_process_text_file
+[==========] tests: 5 test(s) run.
+[  PASSED  ] 5 test(s).
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FunctionsTest" end time: May 19 22:29 +07
+"FunctionsTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 19 22:29 +07
