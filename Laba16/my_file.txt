@@ -1,0 +1,10 @@
+Hello world
+This is a test string
+File handling in C is useful
+Short
+Reading and writing files  
+A longer sentence with multiple words for testing purposes
+Experimenting with file operations such as opening reading writing and closing
+C programming allows low-level file manipulation, which is powerful and efficient
+Testing different string lengths for file input and output
+Handling text files requires understanding of functions like fopen fclose fread and fwrite

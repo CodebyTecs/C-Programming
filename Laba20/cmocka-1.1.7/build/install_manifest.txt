@@ -1,0 +1,9 @@
+/usr/local/lib/pkgconfig/cmocka.pc
+/usr/local/lib/cmake/cmocka/cmocka-config-version.cmake
+/usr/local/include/cmocka.h
+/usr/local/include/cmocka_pbc.h
+/usr/local/lib/libcmocka.0.8.0.dylib
+/usr/local/lib/libcmocka.0.dylib
+/usr/local/lib/libcmocka.dylib
+/usr/local/lib/cmake/cmocka/cmocka-config.cmake
+/usr/local/lib/cmake/cmocka/cmocka-config-noconfig.cmake

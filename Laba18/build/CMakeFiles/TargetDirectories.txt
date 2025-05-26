@@ -1,0 +1,5 @@
+/Users/tecs/Documents/Codding/Laba2_6/build/CMakeFiles/mylib_static.dir
+/Users/tecs/Documents/Codding/Laba2_6/build/CMakeFiles/mylib_shared.dir
+/Users/tecs/Documents/Codding/Laba2_6/build/CMakeFiles/prog.dir
+/Users/tecs/Documents/Codding/Laba2_6/build/CMakeFiles/edit_cache.dir
+/Users/tecs/Documents/Codding/Laba2_6/build/CMakeFiles/rebuild_cache.dir
