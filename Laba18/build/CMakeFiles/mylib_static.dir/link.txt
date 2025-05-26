@@ -1,2 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/ar qc libMYLIB.a CMakeFiles/mylib_static.dir/main.c.o CMakeFiles/mylib_static.dir/functions.c.o
-/Library/Developer/CommandLineTools/usr/bin/ranlib libMYLIB.a
